@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('https://byline.network/wp-content/uploads/2019/03/programing.jpeg') ;
+  background: url('https://byline.network/wp-content/uploads/2019/03/programing.jpeg') top center ;
   background-size: cover;
 }
 
